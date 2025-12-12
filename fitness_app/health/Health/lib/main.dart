@@ -10,12 +10,12 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyBuQBBP__fH7_zN74DBchC9dchP6rYI6S0",
-      authDomain: "physicalapp-7fd40.firebaseapp.com",
-      projectId: "physicalapp-7fd40",
-      storageBucket: "physicalapp-7fd40.firebasestorage.app",
-      messagingSenderId: "1045127190992",
-      appId: "1:1045127190992:android:c96bbf1a3d16514ab881d5",
+      apiKey: "AIzaSyCoYfXaYK9gr4OhCa8EG815y0jmOMi-R3k",
+      authDomain: "healthapp-92bcb.firebaseapp.com",
+      projectId: "healthapp-92bcb",
+      storageBucket: "healthapp-92bcb.firebasestorage.app",
+      messagingSenderId: "81675946284",
+      appId: "1:81675946284:android:69734500f21f3c419c0489",
     ),
   );
 

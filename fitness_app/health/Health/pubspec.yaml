@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    fl_chart: ^0.60.0
+  
   firebase_core: ^2.24.0
   firebase_auth: ^4.16.0
   cupertino_icons: ^1.0.8
@@ -26,5 +26,5 @@ flutter:
   uses-material-design: true
 
   # Optional: Add assets here
-  # assets:
-  #   - images/
+  assets:
+    - assets/images/
